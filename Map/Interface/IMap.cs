@@ -21,7 +21,16 @@ namespace Map.Interface
         /// <param name="value"></param>
         /// <returns>True if object added, false if not</returns>
         public bool PutIfAbstract(TKey key, TValue value);
-        public TValue GetValue(TKey key);
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
+        public TValue Get(TKey key);
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IEnumerable<TKey> GetKeys();
     }
 }

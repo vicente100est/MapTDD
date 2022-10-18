@@ -97,3 +97,10 @@ C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\obj\Debug\
 C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\obj\Debug\net5.0\UnitTestEstructuras.pdb
 C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\obj\Debug\net5.0\UnitTestEstructuras.genruntimeconfig.cache
 C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\obj\Debug\net5.0\ref\UnitTestEstructuras.dll
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.deps.json
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.exe
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.dll
+C:\Users\vicen\Desktop\lab\SOLID\AlgoConDibujitos\UnitTestEstructuras\bin\Debug\net5.0\Map.pdb
