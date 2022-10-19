@@ -45,5 +45,29 @@ namespace UnitTestEstructuras.Collections.Impl
                 Assert.IsNull(retrievedValue);
             }
         }
+
+        [DataTestMethod]
+        [DataRow(true, 1, 10, 1)]
+        [DataRow(true, 1, 10, 1)]
+        [DataRow(false, 1, 10, 2)]
+        public void MapImpl_ShouldGetElementFromMap_IfAvailable(
+            bool expectIsAvailable,
+            int key,
+            int value,
+            int keyToLookFor)
+        {
+            IMap<int, int> testMap = new MapImpl<int, int>();
+
+            testMap.Put(key, value);
+            var retrievedValue = testMap.Get(keyToLookFor);
+            if (expectIsAvailable)
+            {
+                Assert.AreEqual(value, retrievedValue);
+            }
+            else
+            {
+                Assert.AreEqual(default, retrievedValue);
+            }
+        }
     }
 }
